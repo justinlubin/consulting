@@ -161,7 +161,6 @@ a:hover {
   font-size: 1.3em;
   border: 5px double var(--accent);
   line-height: 1.7;
-  border-radius: 5px;
 }
 
 .callout p {
